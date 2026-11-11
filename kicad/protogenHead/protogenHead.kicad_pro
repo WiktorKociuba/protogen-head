@@ -60,12 +60,12 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.3,
+          "min_clearance": 0.127,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.127,
           "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.3,
+          "thermal_relief_gap": 0.127,
           "thermal_relief_spoke_width": 0.5
         }
       },
@@ -218,8 +218,10 @@
         0.15,
         0.2,
         0.25,
+        0.4,
         0.5,
-        1.0
+        1.0,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -550,20 +552,50 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.01,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": "USB",
+        "via_diameter": 0.8,
+        "via_drill": 0.4
       }
     ],
     "meta": {
       "version": 5
     },
     "net_colors": {},
-    "netclass_assignments": {},
-    "netclass_patterns": []
+    "netclass_assignments": {
+      "/D+": [
+        "USB"
+      ],
+      "/D-": [
+        "USB"
+      ],
+      "/USB_D+": [
+        "USB"
+      ],
+      "/USB_D-": [
+        "USB"
+      ]
+    },
+    "netclass_patterns": [
+      {
+        "netclass": "USB",
+        "pattern": "USB_D"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -700,7 +732,7 @@
         "uuid": "29deb24a-642b-4bae-a8b3-746290323c6f"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-20,#PWR24-27,#PWR33-36,#PWR39-55,C1-6,D1,H1-4,J1-4,J7-13,R1-9,SW1-4,U1-6",
+    "used_designators": "#FLG1-3,#PWR1-20,#PWR24-27,#PWR33-36,#PWR39-55,C1-8,D1,H1-4,J1-4,J7-13,R1-9,SW1-4,U1-6",
     "variants": []
   },
   "sheets": [
@@ -714,6 +746,25 @@
     "meta": {
       "version": 0
     },
-    "tuning_profiles_impedance_geometric": []
+    "tuning_profiles_impedance_geometric": [
+      {
+        "enable_time_domain_tuning": true,
+        "layer_entries": [
+          {
+            "bottom_reference_layer": "B.Cu",
+            "delay": 5628200,
+            "diff_pair_gap": 127000,
+            "signal_layer": "F.Cu",
+            "top_reference_layer": "UNDEFINED",
+            "width": 660400
+          }
+        ],
+        "profile_name": "USB",
+        "target_impedance": 90.0,
+        "type": 1,
+        "via_overrides": [],
+        "via_prop_delay": 0
+      }
+    ]
   }
 }
