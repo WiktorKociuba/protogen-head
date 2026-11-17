@@ -1,0 +1,22 @@
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref;
+1;C1, C2, C5;C_0603_1608Metric;3;1u;CC0603KRX7R8BB105;https://www.tme.eu/pl/details/cc0603krx7r8bb105/
+2;C3;C_0603_1608Metric;1;10u;GRM188R60J106KE47D;https://www.tme.eu/pl/details/grm188r60j106ke47d/
+3;C4, C6, C7, C8;C_0603_1608Metric;4;0.1u;CL10B104JB8NNNC;https://www.tme.eu/pl/details/cl10b104jb8nnnc/
+4;C9, C11, C12;C_0805_2012Metric;3;10u;CL21A106KPFNNNG;https://www.tme.eu/pl/details/cl21a106kpfnnng/
+5;C10;C_0805_2012Metric;1;22u;GRM219R61C226ME15L;https://www.tme.eu/pl/details/grm219r61c226me15l/
+6;J1, J2;DG3015002P1200AH;2;DG301-5.0-02P-12-00A(H);DG301-5.0-2P12;https://www.tme.eu/pl/details/dg301-5.0-2p12/
+7;J3, J7;USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal;2;USB4105-GF-A;USB4105-GF-A;https://www.tme.eu/pl/details/usb4105-gf-a/
+8;J4, J5, J6;JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical;3;B3B-XH-A;B3B-XH-A;https://www.tme.eu/pl/details/b3b-xh-a/
+9;J8, J9;JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical;2;B2B-XH-A;B2B-XH-A;https://www.tme.eu/pl/details/b2b-xh-a/
+10;J10;AMASS_XT30U-F_1x02_P5.0mm_Vertical;1;AltPWR;XT30U-F;https://www.tme.eu/pl/details/xt30u-f/
+11;J11;PinHeader_2x04_P2.54mm_Vertical;1;PowerExt;ZL202-8G;https://www.tme.eu/pl/details/zl202-8g/
+12;J12;PinSocket_1x01_P2.54mm_Vertical;1;Conn_01x01;DS1002-01-1X08V13;https://www.tme.eu/pl/details/ds1002-01-1x08v13/
+13;J14;PinHeader_2x05_P2.54mm_Vertical;1;GPIO;67997-410HLF;https://www.tme.eu/pl/details/67997-410hlf/
+14;R1, R2, R3;R_0603_1608Metric;3;10k;ERJ3EKF1002V;https://www.tme.eu/pl/details/erj3ekf1002v/
+15;R4, R5;R_0603_1608Metric;2;27;ERJ3EKF27R0V;https://www.tme.eu/pl/details/erj3ekf27r0v/
+16;R6, R7, R8, R9;R_0603_1608Metric;4;5.1k;ERJ3EKF5101V;https://www.tme.eu/pl/details/erj3ekf5101v/
+17;SW3, SW4;KMR221GLFS;2;KMR221G LFS;KMR221GLFS;https://www.tme.eu/pl/details/kmr221glfs/
+18;U1;IDC-Header_2x08_P2.54mm_Vertical;1;T821-1-16-S1;T821-1-16-S1;https://www.tme.eu/pl/details/t821-1-16-s1/
+19;U2;ESP32-S3-WROOM-1;1;ESP32S3-WRM1-16R8;ESP32S3-WRM1-16R8;https://www.tme.eu/pl/details/esp32s3-wrm1-16r8/
+20;U3;SOT-23-5;1;AP2112K-3.3;AP2112K-3.3TRG1;https://www.tme.eu/pl/details/ap2112k-3.3trg1/
+21;U5, U6;TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL;2;74AHCT245PW.118;74AHCT245PW.118;https://www.tme.eu/pl/details/74ahct245pw.118/

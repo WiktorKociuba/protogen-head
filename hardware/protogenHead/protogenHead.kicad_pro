@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 1.27
+          "drill": 0.0,
+          "height": 1.7,
+          "width": 0.55
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,13 +60,13 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.0,
+          "min_clearance": 0.127,
           "min_island_area": 10.0,
           "min_thickness": 0.127,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.127,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_spoke_width": 0.75
         }
       },
       "diff_pair_dimensions": [
@@ -220,6 +220,7 @@
         0.25,
         0.4,
         0.5,
+        0.6,
         1.0,
         1.5,
         2.0
@@ -596,7 +597,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Schematics/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -733,7 +734,7 @@
         "uuid": "29deb24a-642b-4bae-a8b3-746290323c6f"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-20,#PWR24-27,#PWR33-36,#PWR39-55,C1-8,D1,H1-4,J1-4,J7-14,R1-9,SW1-4,U1-6",
+    "used_designators": "#FLG1-3,#PWR1-20,#PWR24-29,#PWR33-36,#PWR39-55,C1-12,D1,H1-4,J1-4,J7-14,R1-9,SW1-4,U1-6",
     "variants": []
   },
   "sheets": [
