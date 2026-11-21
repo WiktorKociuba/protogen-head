@@ -599,7 +599,7 @@
       "netlist": "",
       "plot": "Schematics/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../3D Models/protogenHead.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
