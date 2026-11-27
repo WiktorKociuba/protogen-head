@@ -37,7 +37,7 @@ You can add a capacitive sensor to the touch pin. You just have to test what val
 7) Fur the base as you wish
 8) Screw everything together with M3 screws, remember to embed heat inserts into the ears
 9) Attach the visor and power everything with two USB-C cables connected to a powerbank or one USB-C cable on the port opposite to the ESP-32 and one battery connected to the XT30 connector.
-## BoM [*WIP*]
+## BoM
 ### PCB
 #### PCB Manufacturing
 
@@ -84,12 +84,47 @@ You can add a capacitive sensor to the touch pin. You just have to test what val
 | [Sunon 1197317](https://kamami.pl/wentylatory/1197317-sunon-ee40100s2-1000u-999-5902186301221.html) | 2 | 10.20 PLN | 20.40 PLN |
 | Total | | | 316.96 PLN (~$77.97)
 
+### Vacuum forming
+| Component | Qty | Price per item | Price |
+| --------- | --- | -------------- | ----- |
+| [50x50cm plywood](https://www.castorama.pl/departments/sklejka-brzozowa-wodoodporna-fosztt-6-mm-50-x-50-cm-1-szt/5908110070805_CAPL.prd) | 2 | 25 PLN | 50 PLN |
+| [Square timber 19x60x1000mm](https://www.castorama.pl/kantowka-strugana-drewniana-floorpol-19-x-60-x-1000-mm/5907508714062_CAPL.prd) | 2 | 13.98 PLN | 27.96 PLN |
+| [Square timber 10x40x1000mm](https://www.castorama.pl/kantowka-strugana-ostre-krawedzie-sosna-10x40x1000-mm/5063022667830_CAPL.prd) | 4 | 10.88 PLN | 43.52 PLN|
+| [Square timber 10x10x1000mm](https://www.castorama.pl/kantowka-strugana-ostre-krawedzie-sosna-10x10x1000-mm/5063022667250_CAPL.prd) | 1 | 6.58 PLN | 6.58 PLN |
+| [Corner brace](https://www.castorama.pl/katownik-stalowy-do-laczenia-elementow-z-przetloczeniem-25-x-25-x-15-mm-ocynk-bialy/5907484582167_CAPL.prd) | 4 | 2.98 PLN | 11.92 PLN |
+| [Wood screw 6x100mm 10pcs](https://www.castorama.pl/wkrety-torx-diall-do-drewna-twardego-6-x-100-mm-10-szt-/5906675097350_CAPL.prd) | 1 | 13.98 PLN | 13.98 PLN |
+| [Caulk](https://www.castorama.pl/silikon-uniwersalny-300-ml-bezbarwny/5059340043647_CAPL.prd) | 1 | 11 PLN | 11 PLN |
+| [PETG Sheet 50x50cm 3mm](https://fabermedia.pl/plyty-z-tworzyw-sztucznych/plyty-pet/plyta-pet-bezbarwna-pet-g-3mm#/grubo%C5%9B%C4%87-3mm) | 2 | 52.54 PLN | 105.08 PLN |
+| [iDye Poly Black](https://allegro.pl/produkt/jacquard-idye-poly-0-49oz-black-czarny-barwnik-do-tkanin-syntetycznych-a346e01e-34aa-4d9d-9f90-61f1dbddb3e5?offerId=19117603692&utm_source=google&utm_medium=product-carousel&utm_campaign=product-listing&utm_content=%2Flisting%3Fstring%3Didye%2520poly) | 1 | 35.68 PLN | 35.68 PLN | 
+| Total | | | 305.72 PLN (~$74.83) |
+
 ### Other
 | Component | Qty | Price per item | Price |
 | --------- | --- | -------------- | ----- |
+| [Screws M3 x 10mm 20pcs](https://www.castorama.pl/sruby-metryczne-z-lbem-cylindrycznym-ocynkowane-m3-x-10-mm-20-szt-/4001221784546_CAPL.prd) | 1 | 8.48 PLN | 8.48 PLN |
+| [Screws M3 x 20mm 20pcs](https://www.castorama.pl/sruby-metryczne-z-lbem-cylindrycznym-ocynkowane-m3-x-20-mm-20-szt-/4001221784317_CAPL.prd) | 1 | 8.18 PLN | 8.18 PLN |
+| [M3 Heat-set inserts](https://www.tme.eu/pl/details/b3_bn1045/wkladki-gwintowane/bossard/1386204/) | 10 | 0.511 PLN | 5.11 PLN |
 | [Creality CR-PETG black](https://botland.com.pl/filamenty-petg/23007-filament-creality-cr-petg-175mm-1kg-black-6971636405344.html) | 2 | 49 PLN | 98 PLN |
-| Screws | | | |
-| Materials for vacuum forming | | | |
-| Fur | | | |
+| [Black fur](https://efutro.com.pl/product-pol-372-Fox-PREMIUM-365-czarny-Black-Frost-sztuczne-futro-niezwykle-puszyste-z-wlosem-o-dlugosci-do-60-mm.html) | 1 lm | 170.10 PLN | 170.10 PLN |
+| [Purple fur](https://efutro.com.pl/product-pol-608-Fox-Fioletowy-2074-sztuczne-futro-niezwykle-puszyste-z-wlosem-o-dlugosci-do-60-mm.html?rec=104002103) | 0.5 lm | 86.10 PLN | 86.10 PLN | 
 | [Magnets 10x4mm](https://kamami.pl/magnesy-trwale/1186637-mno-100x040-10-szt-magnes-neodymowy--5906623484065.html) | 20 | 2.793 PLN | 55.86 PLN |
-| Total | | | |
+| [JST-XH Connectors](https://allegro.pl/oferta/zlacza-jst-xh-raster-2-54-mm-2-3-4-pin-konektory-styki-zestaw-250szt-11401212667?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ZjEzM2Y1NmQtOWU0OS00YWQ0LWJkZDMtOTZmZWJlZDlmODBiAA&bi_t=ape&referrer=proxy&emission_unit_id=5d068c31-d72c-4411-b63b-5e8a12a4023c) | 1 | 14.63 PLN | 14.63 PLN |
+| [Crimping tool](https://allegro.pl/oferta/zaciskarka-reczna-praska-do-konektorow-zlacz-nieizolowanych-kabli-sn-48b-14377876311?bi_s=ads&bi_m=showitem:desktop:department:active&bi_c=ZWMwNjY5YjEtOTRmZi00MWMxLWEwNTktZTg2OGJlOWU4MzIzAA&bi_t=ape&referrer=proxy&emission_unit_id=39021d95-b789-4270-b3f9-fa66eabc7824) | 1 | 42.75 PLN | 42.75 PLN |
+| [Solder Paste](https://kamami.pl/pasty-lutownicze/584387-artagt-023-pasta-lutownicza-easy-print-14-ml-strzykawka-5901764329244.html) | 1 | 19.26 PLN | 19.26 PLN |
+| [Heat bed for soldering](https://allegro.pl/produkt/stol-grzewczy-do-plytki-lutowniczej-pcb-smd-d6cac185-a49f-413a-99a0-2827dde03938?offerId=17143392881) | 1 | 92.66 PLN | 92.66 PLN |
+| Total | | | 601.13 PLN (~$147.14) |
+
+The total price for all of the components is ~$335.56. This price excludes shipping costs. Some of the components have also MoQ that is higher than required number of them, so in that case I put the MoQ value. I also included a little surplus of small smd components as they are easy to lose and cost very little. I also included one extra PETG sheet as it is very likely to fail the first attempt.
+
+### Shipping
+| Supplier | Cost |
+| -------- | ---- |
+| JLCPCB | $14.77 |
+| tme.eu | 15.90 PLN |
+| kamami | 8.90 PLN |
+| nettigo | 17.50 PLN |
+| fabermedia | 15 PLN |
+| Allegro | 20 PLN | 
+| Botland | 15 PLN |
+| efutro | 15 PLN |
+| Total | $14.77 + 107.3 PLN (~$41.03)

@@ -1,0 +1,58 @@
+,,,,,,,,
+Section,Designator,Component,Qty,Unit Price,Line Total,Currency,Approx USD,URL
+PCB Manufacturing,,PCB,10,0.5,5,USD,,
+PCB Manufacturing,,Stencil,1,2.5,2.5,USD,,
+PCB Manufacturing,,Subtotal,,,,USD,7.5,
+PCB Components,C10,GRM219R61C226ME15L,2,1.507,3.01,PLN,,https://www.tme.eu/pl/details/grm219r61c226me15l/
+PCB Components,"C9, C11, C12",CL21A106KPFNNNG,10,0.333,3.33,PLN,,https://www.tme.eu/pl/details/cl21a106kpfnnng/
+PCB Components,"J1, J2",DG301-5.0-2P12,2,0.88,1.76,PLN,,https://www.tme.eu/pl/details/dg301-5.0-2p12/
+PCB Components,C3,GRM188R60J106KE47D,10,0.145,1.45,PLN,,https://www.tme.eu/pl/details/grm188r60j106ke47d/
+PCB Components,"J8, J9",B2B-XH-A,2,0.365,0.73,PLN,,https://www.tme.eu/pl/details/b2b-xh-a/
+PCB Components,"C4, C6, C7, C8",CL10B104JB8NNNC,10,0.248,2.48,PLN,,https://www.tme.eu/pl/details/cl10b104jb8nnnc/
+PCB Components,"R4, R5",ERJ3EKF27R0V,10,0.113,1.13,PLN,,https://www.tme.eu/pl/details/erj3ekf27r0v/
+PCB Components,"R6, R7, R8, R9",ERJ3EKF5101V,10,0.079,0.79,PLN,,https://www.tme.eu/pl/details/erj3ekf5101v/
+PCB Components,J11,ZL202-8G,10,0.452,4.52,PLN,,https://www.tme.eu/pl/details/zl202-8g/
+PCB Components,U1,T821-1-16-S1,2,4.138,8.28,PLN,,https://www.tme.eu/pl/details/t821-1-16-s1/
+PCB Components,J14,67997-410HLF,1,1.1,1.1,PLN,,https://www.tme.eu/pl/details/67997-410hlf/
+PCB Components,"R1, R2, R3",ERJ3EKF1002V,10,0.036,0.36,PLN,,https://www.tme.eu/pl/details/erj3ekf1002v/
+PCB Components,J10,XT30U-F,1,4.45,4.45,PLN,,https://www.tme.eu/pl/details/xt30u-f/
+PCB Components,J12,DS1002-01-1X08V13,5,1.349,6.75,PLN,,https://www.tme.eu/pl/details/ds1002-01-1x08v13/
+PCB Components,U2,ESP32S3-WRM1-16R8,1,31.48,31.48,PLN,,https://www.tme.eu/pl/details/esp32s3-wrm1-16r8/
+PCB Components,"J4, J5, J6",B3B-XH-A,3,0.505,1.52,PLN,,https://www.tme.eu/pl/details/b3b-xh-a/
+PCB Components,"U5, U6",74AHCT245PW.118,4,1.606,6.43,PLN,,https://www.tme.eu/pl/details/74ahct245pw.118/
+PCB Components,"J3, J7",USB4105-GF-A,3,3.535,10.61,PLN,,https://www.tme.eu/pl/details/usb4105-gf-a/
+PCB Components,U3,AP2112K-3.3TRG1,2,1.173,2.35,PLN,,https://www.tme.eu/pl/details/ap2112k-3.3trg1/
+PCB Components,"C1, C2, C5",CC0603KRX7R8BB105,10,0.411,4.11,PLN,,https://www.tme.eu/pl/details/cc0603krx7r8bb105/
+PCB Components,"SW3, SW4",KMR221GLFS,3,2.401,7.20,PLN,,https://www.tme.eu/pl/details/kmr221glfs/
+PCB Components,,Pin cover - NDR-08,10,0.574,5.74,PLN,,https://www.tme.eu/pl/details/ndr-08/
+PCB Components,,Pin cover - NSR-02,20,0.24,4.79,PLN,,https://www.tme.eu/pl/details/nsr-02/
+PCB Components,,Subtotal,,,114.35,PLN,28.12,
+Other Hardware,,Waveshare 20117,2,119.33,238.66,PLN,,https://kamami.pl/matrycowe/587574-rgb-matrix-p3-64x32-wyswietlacz-matrycowy-led-rgb-64x32-5906623465668.html
+Other Hardware,,FIT0449,1,26.90,26.90,PLN,,https://botland.com.pl/gravity-moduly-dzwiekowe/5501-dfrobot-gravity-glosnik-z-interfejsem-cyfrowym-6959420909575.html
+Other Hardware,,WS2812B,1,31,31,PLN,,https://nettigo.pl/products/tasma-led-rgb-ws2812b-5v-bialy-podklad-60-m-ip67-wodoodporna
+Other Hardware,,Sunon 1197317,2,10.20,20.40,PLN,,https://kamami.pl/wentylatory/1197317-sunon-ee40100s2-1000u-999-5902186301221.html
+Other Hardware,,Subtotal,,,316.96,PLN,77.97,
+Vacuum Forming,,50x50cm plywood,2,25,50,PLN,,https://www.castorama.pl/departments/sklejka-brzozowa-wodoodporna-fosztt-6-mm-50-x-50-cm-1-szt/5908110070805_CAPL.prd
+Vacuum Forming,,Square timber 19x60x1000mm,2,13.98,27.96,PLN,,https://www.castorama.pl/kantowka-strugana-drewniana-floorpol-19-x-60-x-1000-mm/5907508714062_CAPL.prd
+Vacuum Forming,,Square timber 10x40x1000mm,4,10.88,43.52,PLN,,https://www.castorama.pl/kantowka-strugana-ostre-krawedzie-sosna-10x40x1000-mm/5063022667830_CAPL.prd
+Vacuum Forming,,Square timber 10x10x1000mm,1,6.58,6.58,PLN,,https://www.castorama.pl/kantowka-strugana-ostre-krawedzie-sosna-10x10x1000-mm/5063022667250_CAPL.prd
+Vacuum Forming,,Corner brace,4,2.98,11.92,PLN,,https://www.castorama.pl/katownik-stalowy-do-laczenia-elementow-z-przetloczeniem-25-x-25-x-15-mm-ocynk-bialy/5907484582167_CAPL.prd
+Vacuum Forming,,Wood screw 6x100mm 10pcs,1,13.98,13.98,PLN,,https://www.castorama.pl/wkrety-torx-diall-do-drewna-twardego-6-x-100-mm-10-szt-/5906675097350_CAPL.prd
+Vacuum Forming,,Caulk,1,11,11,PLN,,https://www.castorama.pl/silikon-uniwersalny-300-ml-bezbarwny/5059340043647_CAPL.prd
+Vacuum Forming,,PETG Sheet 50x50cm 3mm,2,52.54,105.08,PLN,,https://fabermedia.pl/plyty-z-tworzyw-sztucznych/plyty-pet/plyta-pet-bezbarwna-pet-g-3mm#/grubo%C5%9B%C4%87-3mm
+Vacuum Forming,,iDye Poly Black,1,35.68,35.68,PLN,,https://allegro.pl/produkt/jacquard-idye-poly-0-49oz-black-czarny-barwnik-do-tkanin-syntetycznych-a346e01e-34aa-4d9d-9f90-61f1dbddb3e5?offerId=19117603692&utm_source=google&utm_medium=product-carousel&utm_campaign=product-listing&utm_content=%2Flisting%3Fstring%3Didye%2520poly
+Vacuum Forming,,Subtotal,,,305.72,PLN,74.83,
+Other,,Screws M3 x 10mm 20pcs,1,8.48,8.48,PLN,,https://www.castorama.pl/sruby-metryczne-z-lbem-cylindrycznym-ocynkowane-m3-x-10-mm-20-szt-/4001221784546_CAPL.prd
+Other,,Screws M3 x 20mm 20pcs,1,8.18,8.18,PLN,,https://www.castorama.pl/sruby-metryczne-z-lbem-cylindrycznym-ocynkowane-m3-x-20-mm-20-szt-/4001221784317_CAPL.prd
+Other,,M3 Heat-set inserts,10,0.511,5.11,PLN,,https://www.tme.eu/pl/details/b3_bn1045/wkladki-gwintowane/bossard/1386204/
+Other,,Creality CR-PETG black,2,49,98,PLN,,https://botland.com.pl/filamenty-petg/23007-filament-creality-cr-petg-175mm-1kg-black-6971636405344.html
+Other,,Black fur,1 lm,170.10,170.10,PLN,,https://efutro.com.pl/product-pol-372-Fox-PREMIUM-365-czarny-Black-Frost-sztuczne-futro-niezwykle-puszyste-z-wlosem-o-dlugosci-do-60-mm.html
+Other,,Purple fur,0.5 lm,86.10,86.10,PLN,,https://efutro.com.pl/product-pol-608-Fox-Fioletowy-2074-sztuczne-futro-niezwykle-puszyste-z-wlosem-o-dlugosci-do-60-mm.html?rec=104002103
+Other,,Magnets 10x4mm,20,2.793,55.86,PLN,,https://kamami.pl/magnesy-trwale/1186637-mno-100x040-10-szt-magnes-neodymowy--5906623484065.html
+Other,,JST-XH Connectors,1,14.63,14.63,PLN,,https://allegro.pl/oferta/zlacza-jst-xh-raster-2-54-mm-2-3-4-pin-konektory-styki-zestaw-250szt-11401212667?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ZjEzM2Y1NmQtOWU0OS00YWQ0LWJkZDMtOTZmZWJlZDlmODBiAA&bi_t=ape&referrer=proxy&emission_unit_id=5d068c31-d72c-4411-b63b-5e8a12a4023c
+Other,,Crimping tool,1,42.75,42.75,PLN,,https://allegro.pl/oferta/zaciskarka-reczna-praska-do-konektorow-zlacz-nieizolowanych-kabli-sn-48b-14377876311?bi_s=ads&bi_m=showitem:desktop:department:active&bi_c=ZWMwNjY5YjEtOTRmZi00MWMxLWEwNTktZTg2OGJlOWU4MzIzAA&bi_t=ape&referrer=proxy&emission_unit_id=39021d95-b789-4270-b3f9-fa66eabc7824
+Other,,Solder Paste,1,19.26,19.26,PLN,,https://kamami.pl/pasty-lutownicze/584387-artagt-023-pasta-lutownicza-easy-print-14-ml-strzykawka-5901764329244.html
+Other,,Heat bed for soldering,1,92.66,92.66,PLN,,https://allegro.pl/produkt/stol-grzewczy-do-plytki-lutowniczej-pcb-smd-d6cac185-a49f-413a-99a0-2827dde03938?offerId=17143392881
+Other,,Subotal,,,601.13,PLN,147.14,
+,,Total,,,,,335.56,
+,,Shipping (see README),,,,,41.03,
