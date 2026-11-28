@@ -46,8 +46,8 @@ In order to vacuum form the visor, check the blender file to see how the vacuum 
 
 | Component | Qty | Price per item | Price |
 | --------- | --- | -------------- | ----- |
-| PCB | 10 | $0.5 | $5 |
-| Stencil | 1 | $2.5 | $2.5 |
+| PCB (JLCPCB) | 10 | $0.5 | $5 |
+| Stencil (JLCPCB) | 1 | $2.5 | $2.5 |
 | Total | | | $7.5 |
 
 #### PCB Components

@@ -1,7 +1,7 @@
 ,,,,,,,,
 Section,Designator,Component,Qty,Unit Price,Line Total,Currency,Approx USD,URL
-PCB Manufacturing,,PCB,10,0.5,5,USD,,
-PCB Manufacturing,,Stencil,1,2.5,2.5,USD,,
+PCB Manufacturing,,PCB (JLCPCB),10,0.5,5,USD,,
+PCB Manufacturing,,Stencil (JLCPCB),1,2.5,2.5,USD,,
 PCB Manufacturing,,Subtotal,,,,USD,7.5,
 PCB Components,C10,GRM219R61C226ME15L,2,1.507,3.01,PLN,,https://www.tme.eu/pl/details/grm219r61c226me15l/
 PCB Components,"C9, C11, C12",CL21A106KPFNNNG,10,0.333,3.33,PLN,,https://www.tme.eu/pl/details/cl21a106kpfnnng/
