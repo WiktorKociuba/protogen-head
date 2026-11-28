@@ -37,6 +37,9 @@ You can add a capacitive sensor to the touch pin. You just have to test what val
 7) Fur the base as you wish
 8) Screw everything together with M3 screws, remember to embed heat inserts into the ears
 9) Attach the visor and power everything with two USB-C cables connected to a powerbank or one USB-C cable on the port opposite to the ESP-32 and one battery connected to the XT30 connector.
+### Vacuum forming
+In order to vacuum form the visor, check the blender file to see how the vacuum forming rig looks like. Basically you have to use two plywood sheets for top and bottom, the top one should be perforated. Make a box with walls from square timber and connect everything with wood screws. Remember to seal everything with for example caulk or other sealant. You also have to make a hole for your vacuum tube and seal eat. You can also add rails to aid you with alligning the frame, just connect it to the box with for example corner braces. After that make the fram from square timber that will fit the PETG sheet, attach it together with wood screws so that it clamps the PETG sheet. You should also use some sandpaper or something that will create a lot of friction between the petg sheet and the frame, so it doesn't slip out. After that heat up the PETG sheet in oven until it sags, turn on the vacuum and then quickly press the PETG sheet onto the mold. Hold it there for few seconds and then it should be ready to go. Just cut it to shape and then dye it with iDye Poly or something simillar.
+![Vacuum Rig](https://raw.githubusercontent.com/WiktorKociuba/protogen-head/refs/heads/master/assets/vacuumRig.png)
 ## BoM
 ### PCB
 #### PCB Manufacturing
