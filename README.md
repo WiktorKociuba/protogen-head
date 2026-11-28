@@ -81,7 +81,7 @@ In order to vacuum form the visor, check the blender file to see how the vacuum 
 ### Other hardware 
 | Component | Qty | Price per item | Price |
 | --------- | --- | -------------- | ----- |
-| [Waveshare 20117](https://kamami.pl/matrycowe/587574-rgb-matrix-p3-64x32-wyswietlacz-matrycowy-led-rgb-64x32-5906623465668.html) | 2 | 119.33 PLN | 238.66 PLN |
+| [Waveshare 20117](https://kamami.pl/matrycowe/587574-rgb-matrix-p3-64x32-wyswietlacz-matrycowy-led-rgb-64x32-5906623465668.html) | 2 | 125.50 PLN | 251 PLN |
 | [FIT0449](https://botland.com.pl/gravity-moduly-dzwiekowe/5501-dfrobot-gravity-glosnik-z-interfejsem-cyfrowym-6959420909575.html) | 1 | 26.90 PLN | 26.90 PLN
 | [WS2812B](https://nettigo.pl/products/tasma-led-rgb-ws2812b-5v-bialy-podklad-60-m-ip67-wodoodporna) | 1 | 31 PLN | 31 PLN |
 | [Sunon 1197317](https://kamami.pl/wentylatory/1197317-sunon-ee40100s2-1000u-999-5902186301221.html) | 2 | 10.20 PLN | 20.40 PLN |
@@ -127,7 +127,7 @@ The total price for all of the components is ~$335.56. This price excludes shipp
 | kamami | 8.90 PLN |
 | nettigo | 17.50 PLN |
 | fabermedia | 15 PLN |
-| Allegro | 20 PLN | 
+| Allegro | 35 PLN | 
 | Botland | 15 PLN |
 | efutro | 15 PLN |
-| Total | $14.77 + 107.3 PLN (~$41.03)
+| Total | $14.77 + 122.3 PLN (~$44.7)
